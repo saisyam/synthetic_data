@@ -1,0 +1,23 @@
+{
+    "columns": {
+        "Patient ID": {
+            "sdtype": "numerical"
+        },
+        "Age": {
+            "sdtype": "numerical"
+        },
+        "Gender": {
+            "sdtype": "categorical"
+        },
+        "Diagnosis": {
+            "sdtype": "categorical"
+        },
+        "Treatment": {
+            "sdtype": "categorical"
+        },
+        "Outcome": {
+            "sdtype": "categorical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
