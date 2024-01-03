@@ -30,20 +30,7 @@ metadata.update_column(
     sdtype='categorical'
 )
 
-# Define metadata
-'''
-metadata = {
-    'fields': {
-        'Patient ID': {'type': 'id', 'subtype': 'integer'},
-        'Age': {'type': 'numerical', 'subtype': 'integer'},
-        'Gender': {'type': 'categorical'},
-        'Diagnosis': {'type': 'categorical'},
-        'Treatment': {'type': 'categorical'},
-        'Outcome': {'type': 'categorical'}
-    },
-    'primary_key': 'Patient ID'
-}
-'''
+metadata.save_to_json('metadata.json')
 
 synthesizer = GaussianCopulaSynthesizer(metadata)
 synthesizer.fit(real_data)
@@ -66,15 +53,3 @@ quality_report = evaluate_quality(
 )
 
 print(quality_report.get_details('Column Shapes'))
-
-# Basic validation
-# Example: Compare mean and standard deviation of a numerical column
-#real_mean = real_data['Age'].mean()
-#synthetic_mean = synthetic_data['Age'].mean()
-#real_std = real_data['Age'].std()
-#synthetic_std = synthetic_data['Age'].std()
-
-#print(f"Real Data - Mean Age: {real_mean}, Std Age: {real_std}")
-#print(f"Synthetic Data - Mean Age: {synthetic_mean}, Std Age: {synthetic_std}")
-
-
