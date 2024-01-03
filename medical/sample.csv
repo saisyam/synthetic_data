@@ -1,0 +1,51 @@
+Patient ID,Age,Gender,Diagnosis,Treatment,Outcome
+6884,79,M,Alzheimer's Disease,Immunotherapy,Remission
+3000,19,F,Psoriasis,Blood Transfusion,Declined
+9267,85,M,Alzheimer's Disease,Lifestyle Changes,Stable
+6557,66,F,Breast Cancer,Dialysis,Stable
+7608,52,F,Epilepsy,Immunotherapy,Declined
+5230,28,M,Anxiety,Psychotherapy,Stable
+4262,43,M,Psoriasis,Vaccination,Stable
+1282,20,F,Coronary Heart Disease,Physical Therapy,Remission
+4772,19,F,Tuberculosis,Psychotherapy,Remission
+8620,23,F,Tuberculosis,Lifestyle Changes,Remission
+3989,73,F,Pneumonia,Psychotherapy,Improved
+9176,75,M,Coronary Heart Disease,Counseling,Remission
+5629,84,M,Migraine,Diet and Exercise,Declined
+9660,56,F,Tuberculosis,Acupuncture,Remission
+7072,29,M,Epilepsy,Psychotherapy,Stable
+3233,49,M,Rheumatoid Arthritis,Bypass Surgery,Stable
+6044,47,F,Psoriasis,Insulin Therapy,Stable
+4069,36,M,Psoriasis,Inhalers,Declined
+3523,68,F,Tuberculosis,Physical Therapy,Improved
+7488,39,M,Hypothyroidism,Counseling,Declined
+7957,26,M,Obesity,Blood Transfusion,Declined
+1959,55,F,Prostate Cancer,Physical Therapy,Declined
+5360,52,M,Prostate Cancer,Radiation Therapy,Declined
+1595,49,F,Coronary Heart Disease,Hormone Replacement,Remission
+4968,75,M,Osteoarthritis,Vaccination,Improved
+2569,55,F,Hypothyroidism,Hormone Replacement,Improved
+8798,30,M,Hyperthyroidism,Medication,Improved
+5002,65,M,Pneumonia,Bypass Surgery,Declined
+5506,57,M,Obesity,Diet and Exercise,Remission
+1863,19,F,Diabetes,Vaccination,Improved
+9194,80,M,Epilepsy,Antibiotics,Improved
+9073,21,M,Hypertension,Inhalers,Remission
+8721,47,M,Breast Cancer,Medication,Stable
+8149,74,M,Alzheimer's Disease,Lifestyle Changes,Remission
+4694,68,M,Epilepsy,Radiation Therapy,Declined
+3094,73,F,Hypertension,Vaccination,Stable
+7165,23,F,Migraine,Psychotherapy,Improved
+8402,46,M,Asthma,Dialysis,Declined
+9789,39,M,Epilepsy,Counseling,Declined
+2237,23,F,Dermatitis,Lifestyle Changes,Declined
+4984,59,M,Alzheimer's Disease,Insulin Therapy,Improved
+3816,79,F,Hypertension,Psychotherapy,Remission
+6578,81,M,Tuberculosis,Acupuncture,Stable
+5321,32,M,Prostate Cancer,Bypass Surgery,Declined
+2440,30,M,Alzheimer's Disease,Antibiotics,Remission
+8796,51,M,Prostate Cancer,Hormone Replacement,Improved
+7789,60,F,Anxiety,Lifestyle Changes,Remission
+4475,57,M,Coronary Heart Disease,Lifestyle Changes,Remission
+9120,48,M,Peptic Ulcer,Acupuncture,Remission
+5360,47,F,Diabetes,Lifestyle Changes,Declined
